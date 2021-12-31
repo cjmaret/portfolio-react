@@ -5,13 +5,13 @@
     "main.js.map": "/static/js/main.16f48f01.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e34d8c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e34d8c7.js.map",
-    "static/js/2.699ea9a5.chunk.js": "/static/js/2.699ea9a5.chunk.js",
-    "static/js/2.699ea9a5.chunk.js.map": "/static/js/2.699ea9a5.chunk.js.map",
+    "static/js/2.d06df420.chunk.js": "/static/js/2.d06df420.chunk.js",
+    "static/js/2.d06df420.chunk.js.map": "/static/js/2.d06df420.chunk.js.map",
     "static/js/3.842ed6b9.chunk.js": "/static/js/3.842ed6b9.chunk.js",
     "static/js/3.842ed6b9.chunk.js.map": "/static/js/3.842ed6b9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.cd50f436.chunk.css.map": "/static/css/main.cd50f436.chunk.css.map",
-    "static/js/2.699ea9a5.chunk.js.LICENSE.txt": "/static/js/2.699ea9a5.chunk.js.LICENSE.txt",
+    "static/js/2.d06df420.chunk.js.LICENSE.txt": "/static/js/2.d06df420.chunk.js.LICENSE.txt",
     "static/media/apiary-homepage.583a0209.png": "/static/media/apiary-homepage.583a0209.png",
     "static/media/art-icon-dracula.b0cf46f0.png": "/static/media/art-icon-dracula.b0cf46f0.png",
     "static/media/art-icon.2cff0d6d.png": "/static/media/art-icon.2cff0d6d.png",
@@ -40,7 +40,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5e34d8c7.js",
-    "static/js/2.699ea9a5.chunk.js",
+    "static/js/2.d06df420.chunk.js",
     "static/css/main.cd50f436.chunk.css",
     "static/js/main.16f48f01.chunk.js"
   ]
