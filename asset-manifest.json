@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b44f121d.chunk.css",
-    "main.js": "/static/js/main.04518b5a.chunk.js",
-    "main.js.map": "/static/js/main.04518b5a.chunk.js.map",
+    "main.js": "/static/js/main.1fb03c47.chunk.js",
+    "main.js.map": "/static/js/main.1fb03c47.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de6633ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.de6633ff.js.map",
     "static/js/2.c4189264.chunk.js": "/static/js/2.c4189264.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/colin-anime-reduced.ef874b44.png": "/static/media/colin-anime-reduced.ef874b44.png",
     "static/media/comet-icon-dracula.871076ab.png": "/static/media/comet-icon-dracula.871076ab.png",
     "static/media/comet-icon.47d04cc6.png": "/static/media/comet-icon.47d04cc6.png",
+    "static/media/dotcot-homepage.545f1e1f.png": "/static/media/dotcot-homepage.545f1e1f.png",
     "static/media/gear-icon-dracula.298f6e15.png": "/static/media/gear-icon-dracula.298f6e15.png",
     "static/media/gear-icon.7fb0cf48.png": "/static/media/gear-icon.7fb0cf48.png",
     "static/media/globe-icon-black.ca57a1e8.png": "/static/media/globe-icon-black.ca57a1e8.png",
@@ -41,6 +42,6 @@
     "static/js/runtime-main.de6633ff.js",
     "static/js/2.c4189264.chunk.js",
     "static/css/main.b44f121d.chunk.css",
-    "static/js/main.04518b5a.chunk.js"
+    "static/js/main.1fb03c47.chunk.js"
   ]
 }
