@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b44f121d.chunk.css",
-    "main.js": "/static/js/main.7894de4d.chunk.js",
-    "main.js.map": "/static/js/main.7894de4d.chunk.js.map",
+    "main.js": "/static/js/main.aace4831.chunk.js",
+    "main.js.map": "/static/js/main.aace4831.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de6633ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.de6633ff.js.map",
     "static/js/2.c4189264.chunk.js": "/static/js/2.c4189264.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.b44f121d.chunk.css.map": "/static/css/main.b44f121d.chunk.css.map",
     "static/js/2.c4189264.chunk.js.LICENSE.txt": "/static/js/2.c4189264.chunk.js.LICENSE.txt",
-    "static/media/apiary-homepage.583a0209.png": "/static/media/apiary-homepage.583a0209.png",
+    "static/media/apiary-homepage.163df2db.png": "/static/media/apiary-homepage.163df2db.png",
     "static/media/art-icon-dracula.b0cf46f0.png": "/static/media/art-icon-dracula.b0cf46f0.png",
     "static/media/art-icon.2cff0d6d.png": "/static/media/art-icon.2cff0d6d.png",
     "static/media/basketball-icon.3ead8916.png": "/static/media/basketball-icon.3ead8916.png",
@@ -24,25 +24,26 @@
     "static/media/colin-anime-reduced.ef874b44.png": "/static/media/colin-anime-reduced.ef874b44.png",
     "static/media/comet-icon-dracula.871076ab.png": "/static/media/comet-icon-dracula.871076ab.png",
     "static/media/comet-icon.47d04cc6.png": "/static/media/comet-icon.47d04cc6.png",
-    "static/media/confectionery-2.3ba76c76.png": "/static/media/confectionery-2.3ba76c76.png",
-    "static/media/dotcot-homepage.545f1e1f.png": "/static/media/dotcot-homepage.545f1e1f.png",
+    "static/media/confectionery-homepage.60201359.png": "/static/media/confectionery-homepage.60201359.png",
+    "static/media/dotcot-homepage.b5679e51.png": "/static/media/dotcot-homepage.b5679e51.png",
     "static/media/gear-icon-dracula.298f6e15.png": "/static/media/gear-icon-dracula.298f6e15.png",
     "static/media/gear-icon.7fb0cf48.png": "/static/media/gear-icon.7fb0cf48.png",
     "static/media/globe-icon-black.ca57a1e8.png": "/static/media/globe-icon-black.ca57a1e8.png",
     "static/media/globe-icon-white.93c59ad3.png": "/static/media/globe-icon-white.93c59ad3.png",
-    "static/media/homepage.0e42a002.png": "/static/media/homepage.0e42a002.png",
-    "static/media/instagram-homepage.24108f8a.png": "/static/media/instagram-homepage.24108f8a.png",
-    "static/media/javascript-homepage.13da97ad.png": "/static/media/javascript-homepage.13da97ad.png",
-    "static/media/minimalist-portfolio.78fb7907.png": "/static/media/minimalist-portfolio.78fb7907.png",
-    "static/media/news-explorer-homepage.6cc6f6fc.png": "/static/media/news-explorer-homepage.6cc6f6fc.png",
+    "static/media/history-muffin-homepage.6088f563.png": "/static/media/history-muffin-homepage.6088f563.png",
+    "static/media/homepage.fb290914.png": "/static/media/homepage.fb290914.png",
+    "static/media/instagram-homepage.91aaa99f.png": "/static/media/instagram-homepage.91aaa99f.png",
+    "static/media/javascript-homepage.9a7bba6c.png": "/static/media/javascript-homepage.9a7bba6c.png",
+    "static/media/minimalist-portfolio.71734ef7.png": "/static/media/minimalist-portfolio.71734ef7.png",
+    "static/media/news-explorer-homepage.a43f1bcd.png": "/static/media/news-explorer-homepage.a43f1bcd.png",
     "static/media/no-sunglasses-pilot.a529bb14.JPG": "/static/media/no-sunglasses-pilot.a529bb14.JPG",
-    "static/media/planets-react-mainImage.ca81225c.png": "/static/media/planets-react-mainImage.ca81225c.png",
-    "static/media/portland-portfolio.2a580d06.png": "/static/media/portland-portfolio.2a580d06.png"
+    "static/media/planets-react-mainImage.cad78d9c.png": "/static/media/planets-react-mainImage.cad78d9c.png",
+    "static/media/portland-portfolio.15b2ac23.png": "/static/media/portland-portfolio.15b2ac23.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de6633ff.js",
     "static/js/2.c4189264.chunk.js",
     "static/css/main.b44f121d.chunk.css",
-    "static/js/main.7894de4d.chunk.js"
+    "static/js/main.aace4831.chunk.js"
   ]
 }
