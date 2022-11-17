@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b44f121d.chunk.css",
-    "main.js": "/static/js/main.bb7acaab.chunk.js",
-    "main.js.map": "/static/js/main.bb7acaab.chunk.js.map",
+    "main.js": "/static/js/main.c674d7f3.chunk.js",
+    "main.js.map": "/static/js/main.c674d7f3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.801f1e28.js",
     "runtime-main.js.map": "/static/js/runtime-main.801f1e28.js.map",
     "static/js/2.620807bc.chunk.js": "/static/js/2.620807bc.chunk.js",
@@ -30,6 +30,7 @@
     "static/media/gear-icon.7fb0cf48.png": "/static/media/gear-icon.7fb0cf48.png",
     "static/media/globe-icon-black.ca57a1e8.png": "/static/media/globe-icon-black.ca57a1e8.png",
     "static/media/globe-icon-white.93c59ad3.png": "/static/media/globe-icon-white.93c59ad3.png",
+    "static/media/gofundyourself-homepage.568b5916.png": "/static/media/gofundyourself-homepage.568b5916.png",
     "static/media/history-muffin-homepage-2.8d0c436a.png": "/static/media/history-muffin-homepage-2.8d0c436a.png",
     "static/media/homepage.fb290914.png": "/static/media/homepage.fb290914.png",
     "static/media/instagram-homepage.91aaa99f.png": "/static/media/instagram-homepage.91aaa99f.png",
@@ -44,6 +45,6 @@
     "static/js/runtime-main.801f1e28.js",
     "static/js/2.620807bc.chunk.js",
     "static/css/main.b44f121d.chunk.css",
-    "static/js/main.bb7acaab.chunk.js"
+    "static/js/main.c674d7f3.chunk.js"
   ]
 }
