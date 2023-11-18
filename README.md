@@ -16,4 +16,5 @@
 ### ➡️ [GitHub Link](https://github.com/cjmaret/portfolio-react)
 
 ## ✨ Demo
-![colinmaretsky](https://user-images.githubusercontent.com/77926563/147203899-a043aa37-8ae2-4f61-b9a0-9c3d94a3bd9d.png)
+![colinmaretsky com_](https://github.com/cjmaret/portfolio-react/assets/77926563/999b40d2-0664-4119-abe8-2f286b13e43f)
+
