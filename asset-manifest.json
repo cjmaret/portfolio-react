@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b44f121d.chunk.css",
-    "main.js": "/static/js/main.c674d7f3.chunk.js",
-    "main.js.map": "/static/js/main.c674d7f3.chunk.js.map",
+    "main.js": "/static/js/main.fd41ef10.chunk.js",
+    "main.js.map": "/static/js/main.fd41ef10.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.801f1e28.js",
     "runtime-main.js.map": "/static/js/runtime-main.801f1e28.js.map",
     "static/js/2.620807bc.chunk.js": "/static/js/2.620807bc.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.b44f121d.chunk.css.map": "/static/css/main.b44f121d.chunk.css.map",
     "static/js/2.620807bc.chunk.js.LICENSE.txt": "/static/js/2.620807bc.chunk.js.LICENSE.txt",
+    "static/media/abt-homepage.1164b977.png": "/static/media/abt-homepage.1164b977.png",
     "static/media/apiary-homepage.163df2db.png": "/static/media/apiary-homepage.163df2db.png",
     "static/media/art-icon-dracula.b0cf46f0.png": "/static/media/art-icon-dracula.b0cf46f0.png",
     "static/media/art-icon.2cff0d6d.png": "/static/media/art-icon.2cff0d6d.png",
@@ -45,6 +46,6 @@
     "static/js/runtime-main.801f1e28.js",
     "static/js/2.620807bc.chunk.js",
     "static/css/main.b44f121d.chunk.css",
-    "static/js/main.c674d7f3.chunk.js"
+    "static/js/main.fd41ef10.chunk.js"
   ]
 }
