@@ -39,7 +39,6 @@ const projectCards = [
     alt: 'History Muffin E-commerce store',
     description:
       'An e-commerce store where users can purchase or sell products, create an account, manage their products, and make purchases using Stripe',
-    pageLink: 'https://historymuffin.com',
     githubLink: 'https://github.com/cjmaret/history-muffin-frontend',
     languages: [
       'react',
