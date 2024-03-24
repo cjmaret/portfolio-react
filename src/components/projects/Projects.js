@@ -24,6 +24,7 @@ function Projects({ mobileWidth }) {
   const [filterLanguages, setFilterLanguages] = useState({
     react: true,
     node: false,
+    net: false,
     express: false,
     mongodb: true,
     graphql: false,
@@ -40,7 +41,7 @@ function Projects({ mobileWidth }) {
   });
 
   function handleItemClick(e) {
-    let language = e.target.id.toLowerCase().replace(/\s/g, '');
+    let language = e.target.id.toLowerCase().replace(/[.\s]/g, '');
     let clicked = filterLanguages[language];
     setFilterLanguages({
       ...filterLanguages,
@@ -93,7 +94,7 @@ function Projects({ mobileWidth }) {
               onClick={handleItemClick}
               draculaMode={draculaMode}
               itemClicked={
-                filterLanguages[language.toLowerCase().replace(/\s/g, '')]
+                filterLanguages[language.toLowerCase().replace(/[.\s]/g, '')]
               }>
               {language}
             </ProjectsCategoryItem>

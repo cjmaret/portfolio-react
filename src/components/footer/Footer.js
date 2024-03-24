@@ -8,7 +8,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterText>Designed and built by Colin Maretsky</FooterText>
-      <FooterText>The Year of {draculaMode ? 'Vlad the Impaler, 593' : 'Our Lord, 2021'}</FooterText>
+      <FooterText>The Year of {draculaMode ? 'Vlad the Impaler, 591' : 'Our Lord, 2019'}</FooterText>
     </FooterContainer>
   );
 }

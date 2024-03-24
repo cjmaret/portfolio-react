@@ -2,6 +2,7 @@ export const languages = [
   'Node',
   'Express',
   'React',
+  '.NET',
   'MongoDB',
   'GraphQL',
   'Gatsby',

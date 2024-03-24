@@ -73,7 +73,7 @@ function About() {
           </AboutIntro>
           <AboutMe>
             <AboutParagraph>
-              I'm a traveler and freelance web developer with a passion for
+              I'm a traveler and software engineer with a passion for
               injecting life into everything I create. I design and build
               websites that are elegant in their simplicity, and try to combine
               the architectural with the aesthetic. I aim to create works of art
