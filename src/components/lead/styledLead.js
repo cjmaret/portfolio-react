@@ -6,7 +6,9 @@ export const LeadSection = styled.section`
   margin-top: -112px;
   z-index: 3;
   background: ${(props) =>
-    props.draculaMode ? 'linear-gradient(45deg, #804c79, #46338E)' : 'var(--blue)'};
+    props.draculaMode
+      ? 'linear-gradient(45deg, #8B0000, #191970)'
+      : 'var(--blue)'};
   display: flex;
   justify-content: center;
   align-items: center;
