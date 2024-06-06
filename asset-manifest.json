@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b44f121d.chunk.css",
-    "main.js": "/static/js/main.7ec65351.chunk.js",
-    "main.js.map": "/static/js/main.7ec65351.chunk.js.map",
+    "main.js": "/static/js/main.52ed781b.chunk.js",
+    "main.js.map": "/static/js/main.52ed781b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.801f1e28.js",
     "runtime-main.js.map": "/static/js/runtime-main.801f1e28.js.map",
     "static/js/2.620807bc.chunk.js": "/static/js/2.620807bc.chunk.js",
@@ -35,6 +35,7 @@
     "static/media/history-muffin-homepage-2.8d0c436a.png": "/static/media/history-muffin-homepage-2.8d0c436a.png",
     "static/media/homepage.fb290914.png": "/static/media/homepage.fb290914.png",
     "static/media/instagram-homepage.91aaa99f.png": "/static/media/instagram-homepage.91aaa99f.png",
+    "static/media/labor-costing-1.a98206a7.png": "/static/media/labor-costing-1.a98206a7.png",
     "static/media/live-compensation-1.2011c05d.png": "/static/media/live-compensation-1.2011c05d.png",
     "static/media/news-explorer-homepage.a43f1bcd.png": "/static/media/news-explorer-homepage.a43f1bcd.png",
     "static/media/no-sunglasses-pilot.a529bb14.JPG": "/static/media/no-sunglasses-pilot.a529bb14.JPG",
@@ -45,6 +46,6 @@
     "static/js/runtime-main.801f1e28.js",
     "static/js/2.620807bc.chunk.js",
     "static/css/main.b44f121d.chunk.css",
-    "static/js/main.7ec65351.chunk.js"
+    "static/js/main.52ed781b.chunk.js"
   ]
 }
