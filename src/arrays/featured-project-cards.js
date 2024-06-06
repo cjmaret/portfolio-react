@@ -1,5 +1,6 @@
 import LiveCompensationImage from '../images/live-compensation-images/live-compensation-1.png';
-import GoFundYourselfImage from '../images/gofundyourself-images/gofundyourself-homepage.png';
+import LaborCostingImage from '../images/labor-costing-images/labor-costing-1.png';
+
 
 const featuredProjectCards = [
   {
@@ -13,12 +14,12 @@ const featuredProjectCards = [
   },
   {
     id: 1,
-    image: GoFundYourselfImage,
-    alt: 'GoFundYourself fundraising site',
+    image: LaborCostingImage,
+    alt: 'Labor Costing Module',
     description:
-      'A fundraising site where users can create and manage fundraisers, or donate to fundraisers using credit card handling',
-    pageLink: 'https://gofundyourself.lol',
-    githubLink: 'https://github.com/cjmaret/gofundyourself-frontend',
+      'The Labor Costing Analysis generates a comprehensive audit of employee compensation, balancing the financial approach to employee assessment and retention',
+    pageLink: 'https://www.govinvest.com/labor-cost-analysis',
+    languages: ['react', 'mongodb', 'net', 'typescript', 'css', 'html5', 'aws'],
   },
 ];
 

@@ -14,7 +14,8 @@ export const languages = [
   'Mocha',
   'Keystone',
   'Contentful',
-  'Vanilla JS',
+  'Javascript',
+  'AWS'
 ];
 
 export default languages;

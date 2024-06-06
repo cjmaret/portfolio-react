@@ -37,7 +37,8 @@ function Projects({ mobileWidth }) {
     mocha: false,
     keystone: false,
     contentful: false,
-    vanillajs: false,
+    javascript: false,
+    aws: false,
   });
 
   function handleItemClick(e) {
