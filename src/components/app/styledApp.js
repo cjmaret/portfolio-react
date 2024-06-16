@@ -9,7 +9,8 @@ export const EmojiSpan = styled.span`
   position: absolute;
   opacity: 1;
   transition: all 0.4s ease;
-  left: 7px;
+  font-size: 15px;
+  left: 7.5px;
   top: 4px;
 `;
 
