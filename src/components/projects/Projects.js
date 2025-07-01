@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import { useContext, useState } from 'react';
 import {
   ProjectsSection,
   ProjectsSubtitle,
@@ -15,7 +15,6 @@ import {
 import ProjectCard from '../project-card/ProjectCard';
 import { DraculaContext } from '../app/App';
 import projectCards from '../../arrays/project-cards';
-import featuredProjectCards from '../../arrays/featured-project-cards';
 import languages from '../../arrays/languages';
 
 function Projects({ mobileWidth }) {
@@ -39,6 +38,8 @@ function Projects({ mobileWidth }) {
     contentful: false,
     javascript: false,
     aws: false,
+    reactnative: false,
+    python: false
   });
 
   function handleItemClick(e) {
@@ -73,7 +74,7 @@ function Projects({ mobileWidth }) {
         </ProjectsSubtitle>
       </FeaturedProjectsTextGroup>
       <FeaturedProjectsGrid>
-        {featuredProjectCards.map((item) => (
+        {projectCards.slice(0, 2).map((item) => (
           <ProjectCard
             key={item.id}
             mainImage={item.image}

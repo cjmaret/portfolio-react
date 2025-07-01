@@ -15,7 +15,9 @@ export const languages = [
   'Keystone',
   'Contentful',
   'Javascript',
-  'AWS'
+  'AWS',
+  'React Native',
+  'Python',
 ];
 
 export default languages;

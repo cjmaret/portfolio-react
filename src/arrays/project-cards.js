@@ -11,8 +11,19 @@ import HistoryMuffinImage from '../images/history-muffin-images/history-muffin-h
 import GoFundYourselfImage from '../images/gofundyourself-images/gofundyourself-homepage.png';
 import LiveCompensationImage from '../images/live-compensation-images/live-compensation-1.png';
 import LaborCostingImage from '../images/labor-costing-images/labor-costing-1.png';
+import AureliaImage from '../images/aurelia-images/portfolio-image.png';
 
 const projectCards = [
+  {
+    id: 16,
+    image: AureliaImage,
+    alt: 'Aurelia',
+    description:
+      'An AI-powered language learning app that enables real-time conversation practice and instant speech correction, helping users improve fluency, accuracy, and confidence in spoken language',
+    pageLink: 'https://apps.apple.com/us/app/aurelia/id6746510479',
+    githubLink: 'https://github.com/cjmaret/aurelia-frontend',
+    languages: ['react', 'reactnative', 'typescript', 'python', 'mongodb', 'css'],
+  },
   {
     id: 15,
     image: LiveCompensationImage,

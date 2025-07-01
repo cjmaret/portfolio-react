@@ -9,13 +9,11 @@ export const ProjectCardContainer = styled.div`
   position: relative;
   transition: transform 0.4s ease;
   height: 100%;
-
   &:hover {
     transform: translate(-2px, -2px);
   }
 
   @media (max-width: 510px) {
-    /* height: 90%; */
     display: flex;
     flex-direction: column;
     background-color: ${(props) =>
@@ -42,11 +40,7 @@ export const ProjectImage = styled.img`
   height: 100%;
   object-fit: cover;
   border-radius: 25px;
-  box-shadow: none;
-  /* box-shadow: ${(props) =>
-    props.draculaMode
-      ? '0px 10px 0px rgba(124, 130, 142, 0.7)'
-      : '0px 10px 1px rgba(233, 240, 243, 0.7)'}; */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
   @media (max-width: 510px) {
     width: 100%;
     margin: auto;
